@@ -1,4 +1,4 @@
-# Helllo-World
+# Hello-World
 
 This is a GitHub leaning project.
 
